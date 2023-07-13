@@ -1,2 +1,4 @@
-# p5.play-boilerplate
-Boiler plate for p5.play
+Shoot at all the moving targets as fast as possible!
+- Use arrow keys to move left and right
+- Use the "A" and "D" keys to tilt the gun
+- Press the spacebar to shoot
